@@ -1,0 +1,113 @@
+.skuSelectorContainer--quickview .skuSelectorItemImage .frameAround,
+.skuSelectorContainer--quickview .skuSelectorItemImage .skuSelectorInternalBox {
+  border-radius: 50%;
+}
+.container :global(.vtex-modal-layout-0-x-triggerContainer) {
+  opacity: 0;
+  transition: opacity 200ms ease-in-out;
+}
+.container:hover :global(.vtex-modal-layout-0-x-triggerContainer) {
+  opacity: 1;
+}
+.element {
+  position: relative;
+}
+.nameContainer {
+  justify-content: start;
+  padding-top: 12px;
+  padding-bottom: 28px;
+}
+.container {
+  text-align: start;
+  box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 1.5rem;
+  background-color: #fff;
+  transition: all 0.3s ease;
+}
+.container:hover {
+  box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.25);
+}
+.imageContainer {
+  text-align: center;
+}
+.image {
+  border-radius: 0.25rem;
+  max-width: 148px;
+  height: 120px;
+}
+.spacer {
+  min-height: 1rem;
+}
+:global(.vtex-slider-layout-0-x-sliderLayoutContainer--shelf) .containerNormal :global(.vtex-button) {
+  color: var(--color-primary);
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  height: 48px;
+  max-width: 100%;
+}
+:global(.vtex-slider-layout-0-x-sliderLayoutContainer--shelf) .containerNormal :global(.vtex-button):hover,
+.element :global(.vtex-button):hover :global(.vtex-add-to-cart-button-0-x-buttonText) {
+  color: #ffffff;
+}
+
+/*search pages*/
+.nameContainer--shelfName {
+  padding: 12px 0 0;
+  flex-grow: 1;
+  align-items: center;
+}
+.productBrand--shelfName {
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 20px;
+  color: #000;
+}
+:global(.vtex-flex-layout-0-x-flexRow--search-byggy) .nameContainer--shelfName {
+  padding: 0;
+  height: unset;
+}
+:global(.vtex-flex-layout-0-x-flexRow--search-byggy) .imageNormal {
+  width: 88px;
+  height: 88px;
+  object-fit: contain;
+  margin-right: 32px;
+}
+:global(.vtex-slider-layout-0-x-slide--not-found-shelf) .container {
+  background: #ffffff;
+  border-radius: 6px;
+  padding: 5px;
+  margin: 0;
+}
+@media only screen and (min-width: 1235px) {
+  :global(.vtex-flex-layout-0-x-flexRowContent--search-byggy) .imageNormal {
+    width: 80px;
+  }
+}
+@media screen and (max-width: 40em) {
+  .container :global(.vtex-modal-layout-0-x-triggerContainer) {
+    display: none;
+  }
+}
+/*tablet*/
+@media only screen and (max-width: calc(64rem - 1px)) {
+  .productBrand--shelfName {
+    font-size: 14px;
+  }
+
+  .nameContainer--shelfName {
+    padding: 7px 0 0;
+    height: 100%;
+  }
+}
+/*mobile*/
+@media only screen and (max-width: 640px) {
+  :global(.vtex-flex-layout-0-x-flexRow--shelf-pdp-container) .element .brandName {
+    font-size: 12px;
+    line-height: 17px;
+  }
+  .productBrand--shelfName {
+    font-size: 12px;
+  }
+}

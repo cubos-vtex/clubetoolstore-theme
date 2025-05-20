@@ -1,0 +1,32 @@
+{
+	"flex-layout.row#payment-methods-and-shipping-simulator": {
+		"props": {
+			"blockClass": "product-pickup-methods",
+			"preventHorizontalStretch": true
+		},
+		"children": ["menu-item#pdp-shipping-info"],
+		"title": "Modal de Informações de Pickup"
+	},
+	"menu-item#pdp-shipping-info": {
+		"props": {
+			"id": "menu-item-shipping",
+			"type": "custom",
+			"highlight": false,
+			"itemProps": {
+				"type": "internal",
+				"href": "",
+				"noFollow": false,
+				"tagTitle": "Consultar Informações de Entrega",
+				"text": "Consultar Informações de Entrega"
+			},
+			"iconProps": {
+				"id": null
+			},
+			"blockClass": "pdp-ship-menu-information"
+		},
+		"blocks": ["vtex.menu@2.x:submenu.accordion#pdp-shipping-simulator"]
+	},
+	"vtex.menu@2.x:submenu.accordion#pdp-shipping-simulator": {
+		"children": ["shipping-simulator"]
+	}
+}

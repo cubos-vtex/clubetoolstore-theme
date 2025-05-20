@@ -1,0 +1,9 @@
+{
+  "search-result-layout#brand": {
+    "blocks": [
+      "search-result-layout.desktop.product-comparison#search-page",
+      "search-result-layout.mobile#search-page-corredor",
+      "search-not-found-layout#search-page"
+    ]
+  }
+}

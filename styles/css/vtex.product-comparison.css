@@ -1,0 +1,10 @@
+.drawerContainer :global(.vtex-product-summary-2-x-column--drawer-summary-col2) {
+  flex: 40%;
+}
+
+.title {
+  display: none;
+}
+.productSummaryRowContainer :global(.vtex-slider-layout-0-x-sliderTrackContainer) {
+  padding: 0.3rem 0;
+}

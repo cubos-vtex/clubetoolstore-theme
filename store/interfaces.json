@@ -1,0 +1,15 @@
+{
+  "store.search.product-comparison": {
+    "around": ["comparison-context-wrapper"]
+  },
+  "search-result-layout.desktop.product-comparison": {
+    "allowed": ["product-comparison-drawer"]
+  },
+  "store.product.product-comparison": {
+    "around": ["comparison-context-wrapper"],
+    "allowed": ["product-comparison-drawer"]
+  },
+  "query-string-condition": {
+    "component": "QueryStringCondition"
+  }
+}
