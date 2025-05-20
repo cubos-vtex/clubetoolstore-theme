@@ -1,7 +1,7 @@
 {
   "vendor": "clubetoolstore",
   "name": "clubetoolstore-theme",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "builders": {
     "react": "3.x",
     "styles": "2.x",
