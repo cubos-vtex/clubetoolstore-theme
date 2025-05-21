@@ -158,7 +158,7 @@
 .autoCompleteOuterContainer--search-bar-header :global(.vtex-input-prefix__group):hover,
 .autoCompleteOuterContainer--search-bar-header :global(.vtex-input-prefix__group):active {
   background: #fff;
-  border: 1px solid #142032;
+  border: 1px solid #f15731;
 }
 .autoCompleteOuterContainer--search-bar-header :global(.vtex-input-prefix__group) :global(.vtex-styleguide-9-x-input) {
   background: none;
@@ -181,7 +181,7 @@
 }
 .suffixWrapper--search-bar-header .searchBarIcon--search-bar-header {
   padding: 0 1rem;
-  background-color: #142032;
+  background-color: #f15731;
   border-radius: 6px 0 0 6px;
   color: #fff;
   font-weight: 100;
@@ -243,7 +243,7 @@
   width: 100%;
 }
 .productNameContainer {
-  color: #3f3f40;
+  color: #f15731;
   font-weight: bold;
   font-size: 30px;
 }
@@ -277,8 +277,8 @@
   max-width: 200px;
   height: 40px;
   font-size: 14px;
-  background-color: #142032;
-  border: 1px solid #142032;
+  background-color: #f15731;
+  border: 1px solid #f15731;
   margin-left: 32px;
 }
 
@@ -341,7 +341,7 @@
 
 :global(.vtex-flex-layout-0-x-flexColChild--product-info-content)
   :global(.vtex-rich-text-0-x-container--pdp-pickup-button-text) {
-  background-color: #142032;
+  background-color: #f15731;
   border-radius: 6px;
   padding: 0 26px;
   color: #ffffff;

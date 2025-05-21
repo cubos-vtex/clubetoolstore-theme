@@ -1,6 +1,6 @@
 /* /files/checkout5-custom.css */
 #cart-title {
-  color: #003087;
+  color: #f15731;
   padding-bottom: 16px;
 }
 
@@ -35,7 +35,7 @@
 
 .product-item span,
 .product-name a {
-  color: #4a596b;
+  color: #f98c32;
   font-size: 16px;
   font-weight: 400;
 }
@@ -58,7 +58,7 @@
 
 .link-coupon-add {
   padding: 16px 21px;
-  background-color: #142032;
+  background-color: #f15731;
   border-radius: 6px;
   color: #ffffff;
 }
@@ -97,7 +97,7 @@
 .full-cart tfoot .monetary {
   font-weight: bold;
   font-size: 22px !important;
-  color: #003087;
+  color: #f15731;
   text-align: right !important;
   width: 50%;
 }
@@ -117,7 +117,7 @@
 #find-pickups-manualy-button-denied,
 #payment-data-submit,
 #btn-go-to-payment {
-  background-color: #003087 !important;
+  background-color: #f15731 !important;
   background-image: none !important;
   color: #ffffff;
   border-radius: 6px;
@@ -131,7 +131,7 @@
 }
 
 #cart-coupon-add {
-  background-color: #003087 !important;
+  background-color: #f15731 !important;
   background-image: none !important;
   color: #ffffff;
   border-radius: 6px;
@@ -141,7 +141,7 @@
 
 #cart-choose-more-products {
   font-size: 14px;
-  color: #003087 !important;
+  color: #f15731 !important;
   padding: 16px 84px;
   background-color: none !important;
   text-decoration: none;
@@ -150,12 +150,12 @@
 /*.full-cart .summary-totalizers {
 	width: 100%;
   }
-  
+
   .coupon-column {
 	text-align: left !important;
 	display: flex;
   }
-  
+
   .full-cart .accordion-group {
 	width: 25%;
 	margin-left: auto;
@@ -175,12 +175,12 @@
 
 .client-pre-email .emailInfo .icon-ok,
 .client-pre-email .emailInfo h3 {
-  color: #003087;
+  color: #f15731;
 }
 
 .cart-fixed tfoot .info,
 .cart-fixed tfoot .monetary {
-  color: #003087 !important;
+  color: #f15731 !important;
 }
 
 #payment-group-custom201PaymentGroupPaymentGroup,
@@ -196,7 +196,7 @@
   padding: 10px;
   margin-top: 30px;
   background-color: #f8f7fc;
-  color: #003087;
+  color: #f15731;
   font-family: 'Fabriga';
   font-size: 16px;
   line-height: 1.5rem;
