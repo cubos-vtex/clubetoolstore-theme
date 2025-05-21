@@ -29,30 +29,21 @@
     "props": {
       "images": [
         {
-          "image": "https://bravtexeletrostore.vtexassets.com/assets/vtex.file-manager-graphql/images/52ec6b9e-bab0-4e30-a76c-33eb7f2c47dd___f72b603d0d8447baa61903f911b83ee9.jpg",
-          "mobileImage": "https://bravtexeletrostore.vtexassets.com/assets/vtex.file-manager-graphql/images/bcef2639-a2a9-472b-b987-cb0dc0eb63ab___106c36d1ee6025c4815b604936655e21.jpg",
-          "description": "Geladeiras",
+          "image": "assets/all-day-work.jpg",
+          "mobileImage": "assets/all-day-work-mobile.jpg",
+          "description": "Furadeira Elétrica",
           "link": {
-            "url": "/eletrodomesticos/geladeira",
-            "title": "Geladeiras"
+            "url": "/furadeira-eletrica-21v-precision-pro/p",
+            "title": "Furadeira Elétrica Precision Pro 21V"
           }
         },
         {
-          "image": "https://bravtexeletrostore.vtexassets.com/assets/vtex.file-manager-graphql/images/cba18aef-a59d-4043-aa3a-0698a241568a___a7edaab41bcfbac5a90a5b08e14ad0d3.jpg",
-          "mobileImage": "https://bravtexeletrostore.vtexassets.com/assets/vtex.file-manager-graphql/images/66f95bfe-cc48-4684-9fb8-358a7f258c36___fd4d04eb76313f6e848f62e5e9548ae0.png",
-          "description": "TVs",
+          "image": "assets/cordless-saws.jpg",
+          "mobileImage": "assets/cordless-saws-mobile.jpg",
+          "description": "Serra Sabre",
           "link": {
-            "url": "/TVs-e-Video/TVs",
-            "title": "TVs"
-          }
-        },
-        {
-          "image": "https://bravtexeletrostore.vtexassets.com/assets/vtex.file-manager-graphql/images/4869aca2-b59b-43ce-930a-27f1e7349c6a___b93e598d3e30a23ec4efba7d94ce7fed.jpg",
-          "mobileImage": "https://bravtexeletrostore.vtexassets.com/assets/vtex.file-manager-graphql/images/b0f43b38-9579-4624-9627-aede40ffc27c___035e372b92eeeedbce8e74ed94fd8656.png",
-          "description": "Frete Grátis",
-          "link": {
-            "url": "/eletrodomesticos/fogoes",
-            "title": "Frete Grátis"
+            "url": "/serra-sabre-sem-fio-precision-pro/p",
+            "title": "Serra Sabre Sem Fio Precision Pro"
           }
         }
       ]
