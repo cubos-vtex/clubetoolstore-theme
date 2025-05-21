@@ -56,7 +56,7 @@
   "check-club-user#price": {
     "children": ["product-list-price#summary", "product-selling-price#summary"],
     "props": {
-      "fallbackMessage": "Inscreva-se no nosso clube de compras para poder acessar preços e adicionar produtos ao seu pedido."
+      "fallbackMessage": "Inscreva-se no nosso clube de compras para poder acessar a loja."
     }
   },
   /* Futura Estrutura da PdP*/
