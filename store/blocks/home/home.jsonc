@@ -106,7 +106,7 @@
     "title": "Home - Prateleira 1"
   },
   "flex-layout.row#shelf-banner-desktop": {
-    "children": ["image#shelf-banner-desktop"],
+    "children": ["flex-layout.col#shelf-banner-desktop"],
     "props": {
       "fullWidth": false,
       "blockClass": ["shelf-banner"],
@@ -114,12 +114,18 @@
     },
     "title": "Prateleira 1 - Banner"
   },
+  "flex-layout.col#shelf-banner-desktop": {
+    "children": ["image#shelf-banner-desktop"],
+    "props": {
+      "horizontalAlign": "center"
+    }
+  },
   "image#shelf-banner-desktop": {
     "props": {
-      "src": "https://bravtexeletrostore.vtexassets.com/assets/vtex.file-manager-graphql/images/48d139a3-c20a-4eb0-aa94-8fe4a9369e78___474ca52ef2a1572f848f2c7004d3ee9c.png",
+      "src": "assets/banner-kits.jpg",
       "blockClass": "banner-sales",
       "link": {
-        "url": "/"
+        "url": "/kits"
       }
     },
     "title": "Prateleira 1 - Imagem"

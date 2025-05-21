@@ -23,19 +23,12 @@
 	},
 
 	"flex-layout.row#shelf-banner-mobile": {
-		"children": ["image#shelf-banner-mobile"],
+		"children": ["image#shelf-banner-desktop"],
 		"props": {
 			"fullWidth": true,
 			"marginBottom": 8,
 			"blockClass": ["shelf-banner"]
 		},
 		"title": "Prateleira 1 - Banner"
-	},
-	"image#shelf-banner-mobile": {
-		"props": {
-			"src": "https://bravtexgrocerystore.vtexassets.com/arquivos/Cart%C3%A3o-Mobile.png",
-			"blockClass": "banner-sales",
-			"link": "/"
-		}
 	}
 }
