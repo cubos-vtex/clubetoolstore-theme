@@ -175,7 +175,7 @@
 .flexRow--payment-methods,
 .flexRow--credits {
   background: #e7e9ee;
-  color: #4a596b !important;
+  color: #f98c32 !important;
 }
 
 .flexRow--payment-methods .stretchChildrenWidth:first-child {

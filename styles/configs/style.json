@@ -58,12 +58,12 @@
 	"semanticColors": {
 		"background": {
 			"base": "#ffffff",
-			"base--inverted": "#3F3F40",
-			"action-primary": "#003087",
-			"action-secondary": "#003087",
-			"emphasis": "#003087",
+			"base--inverted": "#f15731",
+			"action-primary": "#f15731",
+			"action-secondary": "#f15731",
+			"emphasis": "#f15731",
 			"disabled": "#A1A8B3",
-			"success": "#003087",
+			"success": "#f15731",
 			"success--faded": "#FFC4DD",
 			"danger": "#ff4c4c",
 			"danger--faded": "#ffe6e6",
@@ -76,10 +76,10 @@
 			"muted-5": "#f2f4f5"
 		},
 		"hover-background": {
-			"action-primary": "#003087",
+			"action-primary": "#f15731",
 			"action-secondary": "#00000000",
-			"emphasis": "#003087",
-			"success": "#003087",
+			"emphasis": "#f15731",
+			"success": "#f15731",
 			"success--faded": "#FFC4DD",
 			"danger": "#ff4c4c",
 			"danger--faded": "#ffe6e6",
@@ -92,10 +92,10 @@
 			"muted-5": "#f2f4f5"
 		},
 		"active-background": {
-			"action-primary": "#003087",
+			"action-primary": "#f15731",
 			"action-secondary": "#00000000",
-			"emphasis": "#003087",
-			"success": "#003087",
+			"emphasis": "#f15731",
+			"success": "#f15731",
 			"success--faded": "#FFC4DD",
 			"danger": "#ff4c4c",
 			"danger--faded": "#ffe6e6",
@@ -108,12 +108,12 @@
 			"muted-5": "#f2f4f5"
 		},
 		"text": {
-			"action-primary": "#003087",
+			"action-primary": "#f15731",
 			"action-secondary": "#00000000",
-			"link": "#003087",
-			"emphasis": "#003087",
+			"link": "#f15731",
+			"emphasis": "#f15731",
 			"disabled": "#A1A8B3",
-			"success": "#003087",
+			"success": "#f15731",
 			"success--faded": "#FFC4DD",
 			"danger": "#ff4c4c",
 			"danger--faded": "#ffe6e6",
@@ -129,9 +129,9 @@
 			"link": "#E42760"
 		},
 		"hover-text": {
-			"action-primary": "#003087",
+			"action-primary": "#f15731",
 			"action-secondary": "#FFC4DD",
-			"link": "#003087",
+			"link": "#f15731",
 			"emphasis": "#E42760",
 			"success": "#8bc34a",
 			"success--faded": "#eafce3",
@@ -141,7 +141,7 @@
 			"warning--faded": "#fff6e0"
 		},
 		"active-text": {
-			"link": "#003087",
+			"link": "#f15731",
 			"emphasis": "#E42760",
 			"success": "#8bc34a",
 			"success--faded": "#eafce3",
@@ -151,7 +151,7 @@
 			"warning--faded": "#fff6e0"
 		},
 		"border": {
-			"action-primary": "#003087",
+			"action-primary": "#f15731",
 			"action-secondary": "#FFC4DD",
 			"emphasis": "#E42760",
 			"disabled": "#A1A8B3",
@@ -168,7 +168,7 @@
 			"muted-5": "#a1a8b3"
 		},
 		"hover-border": {
-			"action-primary": "#003087",
+			"action-primary": "#f15731",
 			"action-secondary": "#FFC4DD",
 			"emphasis": "#E42760",
 			"success": "#8bc34a",
@@ -184,7 +184,7 @@
 			"muted-5": "#f2f4f5"
 		},
 		"active-border": {
-			"action-primary": "#003087",
+			"action-primary": "#f15731",
 			"action-secondary": "#FFC4DD",
 			"emphasis": "#E42760",
 			"success": "#8bc34a",
@@ -200,32 +200,32 @@
 			"muted-5": "#f2f4f5"
 		},
 		"on": {
-			"base": "#3f3f40",
+			"base": "#f15731",
 			"base--inverted": "#ffffff",
 			"action-primary": "#ffffff",
 			"action-secondary": "#a1a8b3",
 			"emphasis": "#ffffff",
 			"disabled": "#979899",
 			"success": "#ffffff",
-			"success--faded": "#3f3f40",
+			"success--faded": "#f15731",
 			"danger": "#ffffff",
-			"danger--faded": "#3f3f40",
+			"danger--faded": "#f15731",
 			"warning": "#ffffff",
 			"warning--faded": "#1a1a1a",
 			"muted-1": "#ffffff",
 			"muted-2": "#ffffff",
-			"muted-3": "#3f3f40",
-			"muted-4": "#3f3f40",
-			"muted-5": "#3f3f40"
+			"muted-3": "#f15731",
+			"muted-4": "#f15731",
+			"muted-5": "#f15731"
 		},
 		"hover-on": {
 			"action-primary": "#ffffff",
 			"action-secondary": "#0F3E99",
 			"emphasis": "#ffffff",
 			"success": "#ffffff",
-			"success--faded": "#3f3f40",
+			"success--faded": "#f15731",
 			"danger": "#ffffff",
-			"danger--faded": "#3f3f40",
+			"danger--faded": "#f15731",
 			"warning": "#ffffff",
 			"warning--faded": "#1a1a1a"
 		},
@@ -234,9 +234,9 @@
 			"action-secondary": "#0F3E99",
 			"emphasis": "#ffffff",
 			"success": "#ffffff",
-			"success--faded": "#3f3f40",
+			"success--faded": "#f15731",
 			"danger": "#ffffff",
-			"danger--faded": "#3f3f40",
+			"danger--faded": "#f15731",
 			"warning": "#ffffff",
 			"warning--faded": "#1a1a1a"
 		}

@@ -1,5 +1,4 @@
 :local(:root) {
-    --container-max-width: 1350px;
-    --color-primary: var(--background-action-primary, #003087);
-  }
-  
+  --container-max-width: 1350px;
+  --color-primary: var(--background-action-primary, #f15731);
+}
